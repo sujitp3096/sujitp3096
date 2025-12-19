@@ -1,16 +1,38 @@
 ## Hi there 👋
+# Hi 👋 I'm Sujit Pawar
 
-<!--
-**sujitp3096/sujitp3096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student  
+💻 Java | C++ Developer  
+🤖 AI & Data Analytics Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I build real-world applications using Java and C++
+- Interested in AI-based systems and algorithmic problem solving
+- Passionate about learning and improving coding skills
+
+---
+
+## 🛠️ Skills
+- Programming: Java, C++
+- Core Concepts: OOP, DSA, Algorithms
+- AI Projects: Prediction Systems, Chatbots
+- Tools: Git, GitHub
+
+---
+
+## 📂 Featured Projects
+- 🏥 Advanced Hospital Management System
+- 🤖 Mini ChatGPT Bot
+- 📊 Data Analytics Applications
+- 🎮 Neon Snake Game
+- 📐 DAA & Graph Algorithms
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/sujitp3096
+- LinkedIn: (add your LinkedIn here)
+
+⭐ Feel free to explore my repositories and projects!

@@ -33,6 +33,6 @@
 
 ## 📫 Contact Me
 - GitHub: https://github.com/sujitp3096
-- LinkedIn: (add your LinkedIn here)
+- LinkedIn: https://www.linkedin.com/in/sujitp3096/
 
 ⭐ Feel free to explore my repositories and projects!

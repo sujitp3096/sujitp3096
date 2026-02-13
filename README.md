@@ -1,11 +1,3 @@
-Great Sujit 👌 Since you're a **Second Year B.Tech IT student**, I’ll give you a **professional, expanded, and ATS-friendly GitHub Profile README** that looks impressive to recruiters.
-
-You can copy-paste this into your `README.md` file.
-
----
-
-# 🚀 Sujit Pawar
-
 Hi there! 👋
 I'm **Sujit Pawar**, a passionate **Second Year B.Tech Information Technology student** from Ichalkaranji, Maharashtra, India.
 

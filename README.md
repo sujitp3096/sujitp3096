@@ -64,7 +64,7 @@ Currently in Second Year
 ## 📚 Currently Learning
 
 * Advanced Python Programming
-* Data Structures (Stack, Queue, Linked List, Trees)
+* Data Structures (Stack, Queue,Trees)
 * GitHub Best Practices
 * Writing clean and optimized code
 

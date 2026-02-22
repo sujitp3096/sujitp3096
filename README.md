@@ -97,7 +97,6 @@ I believe in:
 * Build 10+ strong projects
 * Master Data Structures & Algorithms
 * Contribute to Open Source
-* Imp
 
 ---
 

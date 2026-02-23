@@ -102,7 +102,7 @@ I believe in:
 
 ## 📫 Connect With Me
 
-📍 Ichalkaranji, Maharashtra, India
+📍 Ichalkaranji,k Maharashtra, India
 📧 [sujitpawar3009@gmail.com](mailto:sujitpawar3009@gmail.com)
 📱 9060929696
 

@@ -65,6 +65,7 @@ Currently in Second Year
 
 * Advanced Python Programming
 * Data Structures Stack, Queue,Trees
+* 
 * GitHub Best Practices
 * Writing clean and optimized code
 
@@ -102,7 +103,7 @@ I believe in:
 
 ## 📫 Connect With Me
 
-📍 Ichalkaranji,ko Maharashtra, India
+📍 Ichalkaranji,kol Maharashtra, India
 📧 [sujitpawar3009@gmail.com](mailto:sujitpawar3009@gmail.com)
 📱 9060929696
 

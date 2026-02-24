@@ -65,7 +65,7 @@ Currently in Second Year
 
 * Advanced Python Programming
 * Data Structures Stack, Queue,Trees
-* 
+
 * GitHub Best Practices
 * Writing clean and optimized code
 

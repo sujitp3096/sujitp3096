@@ -7,7 +7,7 @@
 
 I'm **Sujit Pawar**, a passionate **Second Year B.Tech Information Technology student** from Ichalkaranji, Maharashtra, India.
 
-I am deeply interested in **Software Development, Problem Solving, and Backend deve**.
+I am deeply interested in **Software Development, Problem Solving, and Backend devel**.
 Currently, I am building strong foundations in **Data Structures, Object-Oriented Programming, and Advanced Python**.
 
 ---

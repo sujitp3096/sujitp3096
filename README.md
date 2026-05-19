@@ -4,7 +4,7 @@
 <h3 align="left">Second Year B.Tech IT Student |</h3>
 
 
-I'm **Sujit Pawar**, a passionate**Second Year B.Tech Information Technology student** from Ichalkaranji, Maharashtra, India.
+I'm **Sujit Pawar**, a passionate **Second Year B.Tech Information Technology student** from Ichalkaranji, Maharashtra, India.
 
 I am deeply interested in **Software Development, Problem Solving, and Backend development**.
 Currently, I am building strong foundations in **Data Structures, Object-Oriented Programming, and Advanced Python**.

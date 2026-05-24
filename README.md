@@ -13,6 +13,7 @@ Currently, I am building strong foundations in **Data Structures, Object-Oriente
 
 ## 🎓 Education
 
+
 🎓 **Bachelor of Technology (B.Tech) – Information Technology**
 Government College of Engineering
 Currently in Second Year

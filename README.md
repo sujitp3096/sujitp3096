@@ -1,4 +1,3 @@
-
 <h1 align="left">👋 Hi, I'm Sujit Pawar</h1>
 
 <h3 align="left">Second Year B.Tech IT Student|</h3>

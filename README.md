@@ -8,7 +8,6 @@ I'm **Sujit Pawar**, a passionate **Second Year B.Tech Information Technology st
 I am deeply interested in **Software Development, Problem Solving, and Backend development**.
 Currently, I am building strong foundations in **Data Structures, Object-Oriented Programming, and Advanced Python**.
 
--
 
 ## 🎓 Education
 

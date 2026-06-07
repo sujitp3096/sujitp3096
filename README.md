@@ -59,7 +59,6 @@ Currently in Second Year
 * Debugging and deployment understanding
 
 ---
-
 ## 📚 Currently Learning
 
 * Advanced Python Programming

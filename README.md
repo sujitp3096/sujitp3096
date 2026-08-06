@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Sujit Pawar</h1>
 
-<h3 align="left">Third Year B.Tech IT Student|</h3>
+<h3 align="left">Third Year B.Tech IT Student| </h3>
 
 
 I'm **Sujit Pawar**, a passionate **Second Year B.Tech Information Technology student** from Ichalkaranji, Maharashtra, India.

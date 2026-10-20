@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="left">👋 Hi, I'm Sujit Pawar</h1>
+
+<h3 align="left">Third Year B.Tech IT Student|</h3>
+<h3 align="left">Third Year B.Tech IT Student| </h3>
+
+
+I'm **Sujit Pawar**, a passionate **Second Year B.Tech Information Technology student** from Ichalkaranji, Maharashtra, India.
+
+I am deeply interested in **Software Development, Problem Solving, and Full Stack development**.
+Currently, I am building strong foundations in **Data Structures, Object-Oriented Programming, and Advanced Python**.
+
+
+## 🎓 Education
+
+
+🎓 **Bachelor of Technology (B.Tech) – Information Technology**
+Government College of Engineering
+Currently in Second Year
+
+--- collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:

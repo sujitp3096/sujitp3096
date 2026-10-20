@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h1 align="left">👋 Hi, I'm Sujit Pawar</h1>
 
-<h3 align="left">Third Year B.Tech IT Student|</h3>
 <h3 align="left">Third Year B.Tech IT Student| </h3>
 
 
